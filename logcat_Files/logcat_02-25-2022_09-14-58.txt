@@ -1,0 +1,523 @@
+<<< log_count = 155 >>>
+[02-25 09:14:52.948 8560:19297 I/NetworkScheduler.Stats]
+Task com.google.android.gms/com.google.android.gms.icing.proxy.IcingInternalCorporaUpdateService finished executing. cause:9 result: 1 elapsed_millis: 33 uptime_millis: 33 exec_start_elapsed_seconds: 171717 [CONTEXT service_id=218 ]
+
+[02-25 09:14:53.595 2112:2112 D/InterruptionStateProvider]
+No heads up: unimportant notification: 0|com.dp.logcatapp|1|null|10172
+
+[02-25 09:14:53.599 2112:2112 D/InterruptionStateProvider]
+No heads up: unimportant notification: 0|com.dp.logcatapp|1|null|10172
+
+[02-25 09:14:54.276 8560:19473 I/ExperimentPackageManage]
+Package com.google.android.networkstack name not found! Using module version.
+
+[02-25 09:14:54.276 8560:19473 I/ExperimentPackageManage]
+Package com.google.android.as name not found! Using module version.
+
+[02-25 09:14:54.277 8560:19473 I/ExperimentPackageManage]
+Package com.android.refreshratecontrol name not found! Using module version.
+
+[02-25 09:14:54.277 8560:19473 I/ExperimentPackageManage]
+Package com.google.android.as name not found! Using module version.
+
+[02-25 09:14:54.277 8560:19473 I/ExperimentPackageManage]
+Package com.google.android.apps.nexuslauncher name not found! Using module version.
+
+[02-25 09:14:54.277 8560:19473 I/ExperimentPackageManage]
+Package com.google.android.resolv name not found! Using module version.
+
+[02-25 09:14:54.277 8560:19473 I/ExperimentPackageManage]
+Package com.google.android.extservices name not found! Using module version.
+
+[02-25 09:14:54.278 8560:19473 I/ExperimentPackageManage]
+Package com.google.oslo name not found! Using module version.
+
+[02-25 09:14:54.278 8560:19473 I/ExperimentPackageManage]
+Package com.google.android.art name not found! Using module version.
+
+[02-25 09:14:54.278 8560:19473 I/ExperimentPackageManage]
+Package com.google.android.art name not found! Using module version.
+
+[02-25 09:14:54.279 8560:19473 I/ExperimentPackageManage]
+Package com.google.android.extservices name not found! Using module version.
+
+[02-25 09:14:54.279 8560:19473 I/ExperimentPackageManage]
+Package com.google.android.wifi name not found! Using module version.
+
+[02-25 09:14:54.279 8560:19473 I/ExperimentPackageManage]
+Package com.google.android.os.statsd name not found! Using module version.
+
+[02-25 09:14:54.279 8560:19473 I/ExperimentPackageManage]
+Package com.android.media name not found! Using module version.
+
+[02-25 09:14:54.279 8560:19473 I/ExperimentPackageManage]
+Package com.android.media.swcodec name not found! Using module version.
+
+[02-25 09:14:54.280 8560:19473 I/ExperimentPackageManage]
+Package com.google.android.os.statsd name not found! Using module version.
+
+[02-25 09:14:54.280 8560:19473 I/ExperimentPackageManage]
+Package com.android.appsearch name not found! Using module version.
+
+[02-25 09:14:54.280 8560:19473 I/ExperimentPackageManage]
+Package com.android.neuralnetworks name not found! Using module version.
+
+[02-25 09:14:54.281 8560:19473 I/ExperimentPackageManage]
+Package com.google.android.odad name not found! Using module version.
+
+[02-25 09:14:54.281 8560:19473 I/ExperimentPackageManage]
+Package com.android.media name not found! Using module version.
+
+[02-25 09:14:54.281 8560:19473 I/ExperimentPackageManage]
+Package com.google.android.os.statsd name not found! Using module version.
+
+[02-25 09:14:54.282 8560:19473 I/ExperimentPackageManage]
+Package com.google.android.os.statsd name not found! Using module version.
+
+[02-25 09:14:54.283 8560:19473 W/PhenotypeConfigurationU]
+Update for unknown DeviceConfig package com.google.android.location [CONTEXT service_id=204 ]
+ayxa: No package exists for config package: com.google.android.location
+	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.a(:com.google.android.gms@214815028@21.48.15 (100400-414534850):7)
+	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.onHandleIntent(:com.google.android.gms@214815028@21.48.15 (100400-414534850):5)
+	at com.google.android.chimera.IntentOperation.onHandleIntent(:com.google.android.gms@214815028@21.48.15 (100400-414534850):2)
+	at vdx.onHandleIntent(:com.google.android.gms@214815028@21.48.15 (100400-414534850):4)
+	at epr.run(:com.google.android.gms@214815028@21.48.15 (100400-414534850):4)
+	at epq.run(:com.google.android.gms@214815028@21.48.15 (100400-414534850):11)
+	at cbig.run(:com.google.android.gms@214815028@21.48.15 (100400-414534850):2)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+[02-25 09:14:54.286 8560:19591 I/PTCommittedOperation]
+Receive new configuration for com.google.android.gms.people
+
+[02-25 09:14:54.288 8560:19615 W/TapAndPay]
+platformSupportsGooglePay: true [CONTEXT service_id=79 ]
+
+[02-25 09:14:54.288 8560:19615 W/TapAndPay]
+hasManagedProfile: false [CONTEXT service_id=79 ]
+
+[02-25 09:14:54.288 8560:19615 W/TapAndPay]
+isChromeOsDevice: false [CONTEXT service_id=79 ]
+
+[02-25 09:14:54.288 8560:19615 W/TapAndPay]
+isUncertifiedDevice: false [CONTEXT service_id=79 ]
+
+[02-25 09:14:54.288 8560:19615 W/TapAndPay]
+deviceSupportsTokenization: true [CONTEXT service_id=79 ]
+
+[02-25 09:14:54.289 8560:19615 W/TapAndPay]
+isGooglePayEnabled: true [CONTEXT service_id=79 ]
+
+[02-25 09:14:54.458 3904:4052 W/SearchServiceCore]
+Abort, client detached.
+
+[02-25 09:14:54.473 1538:1659 D/CompatibilityInfo]
+mCompatibilityFlags - 0
+
+[02-25 09:14:54.473 1538:1659 D/CompatibilityInfo]
+applicationDensity - 420
+
+[02-25 09:14:54.474 1538:1659 D/CompatibilityInfo]
+applicationScale - 1.0
+
+[02-25 09:14:54.482 8560:19615 I/ExperimentPackageManage]
+Package com.google.android.networkstack name not found! Using module version.
+
+[02-25 09:14:54.483 8560:19615 I/ExperimentPackageManage]
+Package com.google.android.as name not found! Using module version.
+
+[02-25 09:14:54.484 8560:19615 I/ExperimentPackageManage]
+Package com.android.refreshratecontrol name not found! Using module version.
+
+[02-25 09:14:54.484 8560:19615 I/ExperimentPackageManage]
+Package com.google.android.as name not found! Using module version.
+
+[02-25 09:14:54.485 8560:19615 I/ExperimentPackageManage]
+Package com.google.android.apps.nexuslauncher name not found! Using module version.
+
+[02-25 09:14:54.485 8560:19615 I/ExperimentPackageManage]
+Package com.google.android.resolv name not found! Using module version.
+
+[02-25 09:14:54.486 8560:19615 I/ExperimentPackageManage]
+Package com.google.android.extservices name not found! Using module version.
+
+[02-25 09:14:54.487 8560:19615 I/ExperimentPackageManage]
+Package com.google.oslo name not found! Using module version.
+
+[02-25 09:14:54.488 8560:19615 I/ExperimentPackageManage]
+Package com.google.android.art name not found! Using module version.
+
+[02-25 09:14:54.488 8560:19615 I/ExperimentPackageManage]
+Package com.google.android.art name not found! Using module version.
+
+[02-25 09:14:54.489 8560:19615 I/ExperimentPackageManage]
+Package com.google.android.extservices name not found! Using module version.
+
+[02-25 09:14:54.490 8560:19615 I/ExperimentPackageManage]
+Package com.google.android.wifi name not found! Using module version.
+
+[02-25 09:14:54.491 8560:19615 I/ExperimentPackageManage]
+Package com.google.android.os.statsd name not found! Using module version.
+
+[02-25 09:14:54.491 8560:19615 I/ExperimentPackageManage]
+Package com.android.media name not found! Using module version.
+
+[02-25 09:14:54.492 8560:19615 I/ExperimentPackageManage]
+Package com.android.media.swcodec name not found! Using module version.
+
+[02-25 09:14:54.493 8560:19615 I/ExperimentPackageManage]
+Package com.google.android.os.statsd name not found! Using module version.
+
+[02-25 09:14:54.494 8560:19615 I/ExperimentPackageManage]
+Package com.android.appsearch name not found! Using module version.
+
+[02-25 09:14:54.494 8560:19615 I/ExperimentPackageManage]
+Package com.android.neuralnetworks name not found! Using module version.
+
+[02-25 09:14:54.495 8560:19615 I/ExperimentPackageManage]
+Package com.google.android.odad name not found! Using module version.
+
+[02-25 09:14:54.495 8560:19615 I/ExperimentPackageManage]
+Package com.android.media name not found! Using module version.
+
+[02-25 09:14:54.496 8560:19615 I/ExperimentPackageManage]
+Package com.google.android.os.statsd name not found! Using module version.
+
+[02-25 09:14:54.496 8560:19615 I/ExperimentPackageManage]
+Package com.google.android.os.statsd name not found! Using module version.
+
+[02-25 09:14:54.497 8560:19615 W/PhenotypeConfigurationU]
+Update for unknown DeviceConfig package com.google.android.gms.ocr [CONTEXT service_id=204 ]
+ayxa: No package exists for config package: com.google.android.gms.ocr
+	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.a(:com.google.android.gms@214815028@21.48.15 (100400-414534850):7)
+	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.onHandleIntent(:com.google.android.gms@214815028@21.48.15 (100400-414534850):5)
+	at com.google.android.chimera.IntentOperation.onHandleIntent(:com.google.android.gms@214815028@21.48.15 (100400-414534850):2)
+	at vdx.onHandleIntent(:com.google.android.gms@214815028@21.48.15 (100400-414534850):4)
+	at epr.run(:com.google.android.gms@214815028@21.48.15 (100400-414534850):4)
+	at epq.run(:com.google.android.gms@214815028@21.48.15 (100400-414534850):11)
+	at cbig.run(:com.google.android.gms@214815028@21.48.15 (100400-414534850):2)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+[02-25 09:14:54.512 14789:19561 W/DynamiteModule]
+Local module descriptor class for com.google.android.gms.vision.dynamite.ocr not found.
+
+[02-25 09:14:54.513 14789:19561 I/DynamiteModule]
+Considering local module com.google.android.gms.vision.dynamite.ocr:0 and remote module com.google.android.gms.vision.dynamite.ocr:0
+
+[02-25 09:14:54.516 14789:19561 I/DynamiteModule]
+Considering local module com.google.android.gms.vision.ocr:0 and remote module com.google.android.gms.vision.ocr:1
+
+[02-25 09:14:54.516 14789:19561 I/DynamiteModule]
+Selected remote version of com.google.android.gms.vision.ocr, version >= 1
+
+[02-25 09:14:54.524 1538:1659 D/CompatibilityInfo]
+mCompatibilityFlags - 0
+
+[02-25 09:14:54.524 1538:1659 D/CompatibilityInfo]
+applicationDensity - 420
+
+[02-25 09:14:54.524 1538:1659 D/CompatibilityInfo]
+applicationScale - 1.0
+
+[02-25 09:14:54.524 8560:19615 I/ExperimentPackageManage]
+Package com.google.android.networkstack name not found! Using module version.
+
+[02-25 09:14:54.525 8560:19615 I/ExperimentPackageManage]
+Package com.google.android.as name not found! Using module version.
+
+[02-25 09:14:54.525 8560:19615 I/ExperimentPackageManage]
+Package com.android.refreshratecontrol name not found! Using module version.
+
+[02-25 09:14:54.526 8560:19615 I/ExperimentPackageManage]
+Package com.google.android.as name not found! Using module version.
+
+[02-25 09:14:54.526 8560:19615 I/ExperimentPackageManage]
+Package com.google.android.apps.nexuslauncher name not found! Using module version.
+
+[02-25 09:14:54.527 8560:19615 I/ExperimentPackageManage]
+Package com.google.android.resolv name not found! Using module version.
+
+[02-25 09:14:54.527 8560:19615 I/ExperimentPackageManage]
+Package com.google.android.extservices name not found! Using module version.
+
+[02-25 09:14:54.527 8560:19615 I/ExperimentPackageManage]
+Package com.google.oslo name not found! Using module version.
+
+[02-25 09:14:54.529 8560:19615 I/ExperimentPackageManage]
+Package com.google.android.art name not found! Using module version.
+
+[02-25 09:14:54.529 8560:19615 I/ExperimentPackageManage]
+Package com.google.android.art name not found! Using module version.
+
+[02-25 09:14:54.530 8560:19615 I/ExperimentPackageManage]
+Package com.google.android.extservices name not found! Using module version.
+
+[02-25 09:14:54.530 8560:19615 I/ExperimentPackageManage]
+Package com.google.android.wifi name not found! Using module version.
+
+[02-25 09:14:54.531 8560:19615 I/ExperimentPackageManage]
+Package com.google.android.os.statsd name not found! Using module version.
+
+[02-25 09:14:54.532 8560:19615 I/ExperimentPackageManage]
+Package com.android.media name not found! Using module version.
+
+[02-25 09:14:54.532 8560:19615 I/ExperimentPackageManage]
+Package com.android.media.swcodec name not found! Using module version.
+
+[02-25 09:14:54.533 8560:19615 I/ExperimentPackageManage]
+Package com.google.android.os.statsd name not found! Using module version.
+
+[02-25 09:14:54.534 8560:19615 I/ExperimentPackageManage]
+Package com.android.appsearch name not found! Using module version.
+
+[02-25 09:14:54.534 8560:19615 I/ExperimentPackageManage]
+Package com.android.neuralnetworks name not found! Using module version.
+
+[02-25 09:14:54.535 8560:19615 I/ExperimentPackageManage]
+Package com.google.android.odad name not found! Using module version.
+
+[02-25 09:14:54.535 8560:19615 I/ExperimentPackageManage]
+Package com.android.media name not found! Using module version.
+
+[02-25 09:14:54.536 8560:19616 I/PTCommittedOperation]
+Receive new configuration for com.google.android.gms.smartdevice
+
+[02-25 09:14:54.537 14789:19607 W/ModuleInitIntentOp]
+Dropping unexpected action com.google.android.gms.phenotype.COMMITTED
+
+[02-25 09:14:54.538 14789:19610 I/SyncIntentOperation]
+Handling the intent: Intent { act=com.google.android.gms.phenotype.COMMITTED flg=0x10 pkg=com.google.android.gms cmp=com.google.android.gms/.chimera.GmsIntentOperationService (has extras) }. [CONTEXT service_id=80 ]
+
+[02-25 09:14:54.538 8560:19615 I/ExperimentPackageManage]
+Package com.google.android.os.statsd name not found! Using module version.
+
+[02-25 09:14:54.539 8560:19615 I/ExperimentPackageManage]
+Package com.google.android.os.statsd name not found! Using module version.
+
+[02-25 09:14:54.539 14789:19611 I/MdiSyncModule]
+flag handling is skipping irrelevant intent.
+
+[02-25 09:14:54.540 8560:19591 W/TapAndPay]
+platformSupportsGooglePay: true [CONTEXT service_id=79 ]
+
+[02-25 09:14:54.540 8560:19615 W/PhenotypeConfigurationU]
+Update for unknown DeviceConfig package com.google.android.gms.smartdevice [CONTEXT service_id=204 ]
+ayxa: No package exists for config package: com.google.android.gms.smartdevice
+	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.a(:com.google.android.gms@214815028@21.48.15 (100400-414534850):7)
+	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.onHandleIntent(:com.google.android.gms@214815028@21.48.15 (100400-414534850):5)
+	at com.google.android.chimera.IntentOperation.onHandleIntent(:com.google.android.gms@214815028@21.48.15 (100400-414534850):2)
+	at vdx.onHandleIntent(:com.google.android.gms@214815028@21.48.15 (100400-414534850):4)
+	at epr.run(:com.google.android.gms@214815028@21.48.15 (100400-414534850):4)
+	at epq.run(:com.google.android.gms@214815028@21.48.15 (100400-414534850):11)
+	at cbig.run(:com.google.android.gms@214815028@21.48.15 (100400-414534850):2)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+[02-25 09:14:54.540 8560:19591 W/TapAndPay]
+hasManagedProfile: false [CONTEXT service_id=79 ]
+
+[02-25 09:14:54.540 8560:19591 W/TapAndPay]
+isChromeOsDevice: false [CONTEXT service_id=79 ]
+
+[02-25 09:14:54.540 8560:19591 W/TapAndPay]
+isUncertifiedDevice: false [CONTEXT service_id=79 ]
+
+[02-25 09:14:54.540 8560:19591 W/TapAndPay]
+deviceSupportsTokenization: true [CONTEXT service_id=79 ]
+
+[02-25 09:14:54.541 8560:19591 W/TapAndPay]
+isGooglePayEnabled: true [CONTEXT service_id=79 ]
+
+[02-25 09:14:54.546 14789:19561 I/native]
+I0225 09:14:54.544096   19561 start_ocr_856638336_langid.cc:35] StartOcr with label: latin_script_gmvapi_android
+
+[02-25 09:14:54.546 8560:19615 I/ExperimentPackageManage]
+Package com.google.android.networkstack name not found! Using module version.
+
+[02-25 09:14:54.546 14789:19561 I/native]
+I0225 09:14:54.546420   19561 start_ocr_856638336_langid.cc:44] StartOcr success
+
+[02-25 09:14:54.546 8560:19615 I/ExperimentPackageManage]
+Package com.google.android.as name not found! Using module version.
+
+[02-25 09:14:54.547 8560:19615 I/ExperimentPackageManage]
+Package com.android.refreshratecontrol name not found! Using module version.
+
+[02-25 09:14:54.547 8560:19615 I/ExperimentPackageManage]
+Package com.google.android.as name not found! Using module version.
+
+[02-25 09:14:54.547 14789:19617 W/ModuleInitIntentOp]
+Dropping unexpected action com.google.android.gms.phenotype.COMMITTED
+
+[02-25 09:14:54.548 8560:19615 I/ExperimentPackageManage]
+Package com.google.android.apps.nexuslauncher name not found! Using module version.
+
+[02-25 09:14:54.548 14789:19561 I/OcrModelUpStIntentOp]
+Downloading text recognizer
+
+[02-25 09:14:54.548 8560:19615 I/ExperimentPackageManage]
+Package com.google.android.resolv name not found! Using module version.
+
+[02-25 09:14:54.549 8560:19615 I/ExperimentPackageManage]
+Package com.google.android.extservices name not found! Using module version.
+
+[02-25 09:14:54.549 14789:19477 I/GmsSyncPolicyEngine]
+Periodic sync 1 disabled by policy, cancelled.
+
+[02-25 09:14:54.550 8560:19615 I/ExperimentPackageManage]
+Package com.google.oslo name not found! Using module version.
+
+[02-25 09:14:54.550 14789:19477 I/GmsSyncPolicyEngine]
+Periodic sync 2 disabled by policy, cancelled.
+
+[02-25 09:14:54.551 1538:1659 D/CompatibilityInfo]
+mCompatibilityFlags - 0
+
+[02-25 09:14:54.551 1538:1659 D/CompatibilityInfo]
+applicationDensity - 420
+
+[02-25 09:14:54.551 1538:1659 D/CompatibilityInfo]
+applicationScale - 1.0
+
+[02-25 09:14:54.551 8560:19615 I/ExperimentPackageManage]
+Package com.google.android.art name not found! Using module version.
+
+[02-25 09:14:54.552 8560:19615 I/ExperimentPackageManage]
+Package com.google.android.art name not found! Using module version.
+
+[02-25 09:14:54.553 8560:19615 I/ExperimentPackageManage]
+Package com.google.android.extservices name not found! Using module version.
+
+[02-25 09:14:54.555 14789:14789 D/BoundBrokerSvc]
+onBind: Intent { act=com.google.android.gms.common.download.START cmp=com.google.android.gms/.chimera.GmsBoundBrokerService }
+
+[02-25 09:14:54.555 14789:14789 D/BoundBrokerSvc]
+Loading bound service for intent: Intent { act=com.google.android.gms.common.download.START cmp=com.google.android.gms/.chimera.GmsBoundBrokerService }
+
+[02-25 09:14:54.556 1538:10165 D/CompatibilityInfo]
+mCompatibilityFlags - 0
+
+[02-25 09:14:54.556 1538:10165 D/CompatibilityInfo]
+applicationDensity - 420
+
+[02-25 09:14:54.556 1538:10165 D/CompatibilityInfo]
+applicationScale - 1.0
+
+[02-25 09:14:54.557 8560:19615 I/ExperimentPackageManage]
+Package com.google.android.wifi name not found! Using module version.
+
+[02-25 09:14:54.558 8560:19615 I/ExperimentPackageManage]
+Package com.google.android.os.statsd name not found! Using module version.
+
+[02-25 09:14:54.558 8560:19615 I/ExperimentPackageManage]
+Package com.android.media name not found! Using module version.
+
+[02-25 09:14:54.559 8560:19615 I/ExperimentPackageManage]
+Package com.android.media.swcodec name not found! Using module version.
+
+[02-25 09:14:54.560 8560:19615 I/ExperimentPackageManage]
+Package com.google.android.os.statsd name not found! Using module version.
+
+[02-25 09:14:54.560 8560:19615 I/ExperimentPackageManage]
+Package com.android.appsearch name not found! Using module version.
+
+[02-25 09:14:54.562 8560:19615 I/ExperimentPackageManage]
+Package com.android.neuralnetworks name not found! Using module version.
+
+[02-25 09:14:54.563 8560:19615 I/ExperimentPackageManage]
+Package com.google.android.odad name not found! Using module version.
+
+[02-25 09:14:54.563 14789:14789 D/BoundBrokerSvc]
+onBind: Intent { act=com.google.android.gms.ocr.service.internal.START cmp=com.google.android.gms/.chimera.GmsInternalApiService }
+
+[02-25 09:14:54.563 14789:14789 D/BoundBrokerSvc]
+Loading bound service for intent: Intent { act=com.google.android.gms.ocr.service.internal.START cmp=com.google.android.gms/.chimera.GmsInternalApiService }
+
+[02-25 09:14:54.563 8560:19615 I/ExperimentPackageManage]
+Package com.android.media name not found! Using module version.
+
+[02-25 09:14:54.564 8560:19615 I/ExperimentPackageManage]
+Package com.google.android.os.statsd name not found! Using module version.
+
+[02-25 09:14:54.564 8560:19615 I/ExperimentPackageManage]
+Package com.google.android.os.statsd name not found! Using module version.
+
+[02-25 09:14:54.566 8560:19615 W/PhenotypeConfigurationU]
+Update for unknown DeviceConfig package com.google.android.gms.people [CONTEXT service_id=204 ]
+ayxa: No package exists for config package: com.google.android.gms.people
+	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.a(:com.google.android.gms@214815028@21.48.15 (100400-414534850):7)
+	at com.google.android.gms.platformconfigurator.PhenotypeConfigurationUpdateListener.onHandleIntent(:com.google.android.gms@214815028@21.48.15 (100400-414534850):5)
+	at com.google.android.chimera.IntentOperation.onHandleIntent(:com.google.android.gms@214815028@21.48.15 (100400-414534850):2)
+	at vdx.onHandleIntent(:com.google.android.gms@214815028@21.48.15 (100400-414534850):4)
+	at epr.run(:com.google.android.gms@214815028@21.48.15 (100400-414534850):4)
+	at epq.run(:com.google.android.gms@214815028@21.48.15 (100400-414534850):11)
+	at cbig.run(:com.google.android.gms@214815028@21.48.15 (100400-414534850):2)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:919)
+
+[02-25 09:14:54.569 8560:19297 W/NetworkScheduler]
+The extras of the task is not valid to be persisted so that the task is not persisted [CONTEXT service_id=218 ]
+java.lang.IllegalArgumentException: Only the following extra parameter types are supported: Integer, Long, Double, String, Boolean, and nested Bundles with the same restrictions.
+	at amcm.f(:com.google.android.gms@214815028@21.48.15 (100400-414534850):6)
+	at bblu.g(:com.google.android.gms@214815028@21.48.15 (100400-414534850):37)
+	at bbkp.n(:com.google.android.gms@214815028@21.48.15 (100400-414534850):3)
+	at bbkp.u(:com.google.android.gms@214815028@21.48.15 (100400-414534850):20)
+	at bbkp.h(:com.google.android.gms@214815028@21.48.15 (100400-414534850):3)
+	at bbgo.run(:com.google.android.gms@214815028@21.48.15 (100400-414534850):9)
+	at xtm.c(:com.google.android.gms@214815028@21.48.15 (100400-414534850):6)
+	at xtm.run(:com.google.android.gms@214815028@21.48.15 (100400-414534850):7)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at xzm.run(:com.google.android.gms@214815028@21.48.15 (100400-414534850):0)
+	at java.lang.Thread.run(Thread.java:919)
+
+[02-25 09:14:55.918 19521:19540 I/equicksearchbo]
+Waiting for a blocking GC ProfileSaver
+
+[02-25 09:14:55.938 19521:19540 I/equicksearchbo]
+WaitForGcToComplete blocked ProfileSaver on AddRemoveAppImageSpace for 19.618ms
+
+[02-25 09:14:56.403 22265:22265 D/LocationMapComponent]
+magnetic sensor accuracy changed: low accuracy
+
+[02-25 09:14:56.459 22265:22265 D/LocationMapComponent]
+magnetic sensor accuracy changed: high accuracy
+
+[02-25 09:14:56.802 3618:3618 I/SafeMove]
+vpnStatusIntent():Change in Ipsec SA status, broadcast intent
+
+[02-25 09:14:56.802 3618:3618 I/SafeMove]
+vpnStatusIntent Ipsec Sas status: true
+
+[02-25 09:14:56.802 3618:3618 I/SafeMove]
+mProfileStatus: off
+
+[02-25 09:14:56.802 3618:3618 I/SafeMove]
+vpnStatusIntent():Change in Ipsec SA status, broadcast intent
+
+[02-25 09:14:56.802 3618:3618 I/SafeMove]
+vpnStatusIntent Ipsec Sas status: true
+
+[02-25 09:14:56.802 3618:3618 I/SafeMove]
+mProfileStatus: off
+
+[02-25 09:14:56.802 3618:3618 I/SafeMoveVpnService]
+VPN running: true, is NGN: false
+
+[02-25 09:14:56.805 3618:3618 I/SafeMoveVpnService]
+vpnStatus(): VPN_CONNECTED
+
+[02-25 09:14:57.108 22265:22372 D/Dt2FileWatcher]
+Took 48ms to scan DTED directory for 345 files.
+
+[02-25 09:14:57.264 22265:22265 D/LocationMapComponent]
+magnetic sensor accuracy changed: low accuracy
+
+[02-25 09:14:57.320 22265:22265 D/LocationMapComponent]
+magnetic sensor accuracy changed: high accuracy
+
